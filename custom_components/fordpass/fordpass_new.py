@@ -38,10 +38,10 @@ NEW_API = True
 
 BASE_URL = "https://usapi.cv.ford.com/api"
 GUARD_URL = "https://api.mps.ford.com/api"
-SSO_URL = "https://sso.ci.ford.com"
+SSO_URL = "https://sso.ci.lincoln.com"
 AUTONOMIC_URL = "https://api.autonomic.ai/v1"
 AUTONOMIC_ACCOUNT_URL = "https://accounts.autonomic.ai/v1"
-FORD_LOGIN_URL = "https://login.ford.com"
+FORD_LOGIN_URL = "https://login.lincoln.com"
 
 session = requests.Session()
 
